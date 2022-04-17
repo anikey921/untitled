@@ -2,4 +2,8 @@
 
 ##dfgdg
 
-***Jopa***
+***bold italic***
+
+**bold**
+
+*italic*
